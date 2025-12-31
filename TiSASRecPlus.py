@@ -35,7 +35,7 @@ class ContinuousTimeEncoding(nn.Module):
         return emb
 
 
-class TiSASRec(SequentialModel):
+class TiSASRecPlus(SequentialModel):
     reader = 'SeqReader'
     runner = 'BaseRunner'
     extra_log_args = ['emb_size', 'num_layers', 'num_heads', 'time_max']
