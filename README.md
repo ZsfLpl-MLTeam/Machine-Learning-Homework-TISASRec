@@ -2,7 +2,7 @@
 
 Here's the machine learning project repository for **zsf** and **lpl** at **Sun Yat-sen University**.
 
-## 📂 模型介绍与使用说明 (Model Zoo)
+## 模型介绍与使用说明
 
 本项目包含两个基于 TiSASRec 的改进版本，请参考以下说明进行部署和运行。
 
